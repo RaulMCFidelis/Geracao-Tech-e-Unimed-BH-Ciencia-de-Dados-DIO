@@ -3,6 +3,8 @@ idade = 27
 
 nome = "Fidelis"
 
+nome, idade = "Raul", 27
+
 print(nome, idade)
 
 limite_saque_diario = 1000
